@@ -25,14 +25,16 @@ export default function Home( { allPostsData } ) {
             <section className={utilStyles.headingMd}>
                 <p>Hi I am Sajjan Kumar. </p>
                 <p>
-                    I generally talk about Big Data, Data Processing, Data Staructure ,{''}
-                    Scalable system. You can contact me on <a href="https://twitter.com/kumarksajjan">twitter</a>
+                    I generally talk about Big Data, Data Processing, Data structure,{''}
+                    Scalable systems em and Technical Leadership. 
+                    You can connect with over
+                        <a href="https://www.linkedin.com/in/sajjan--kumar/">LinkedIn</a>
+                        or
+                        <a href="https://twitter.com/kumarksajjan">twitter</a>
                 </p>
                 <p>
                     I love to read books. You can find 
                     <a href="/"> here</a> some of my favroite book.{''}
-                    <br></br>
-                    Earbuds: <a href="https://amzn.to/3OFtrEb">My current Love</a>
                     <br></br>
                     Some of favroite <a href="">podcasts</a>.
                 </p>
